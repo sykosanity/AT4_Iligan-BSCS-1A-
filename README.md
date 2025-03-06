@@ -1,10 +1,10 @@
-###**Enhanced Student/User Account Management Application**
+**Enhanced Student/User Account Management Application**
 
-##**Overview**
+**Overview**
 
 This is a Java-based desktop application designed to manage student records efficiently. Built using Java Swing for the graphical user interface, this application allows users to perform CRUD (Create, Read, Update, Delete) operations on student records. Data is stored in a JSON file for persistence.
 
-##**Features**
+**Features**
 
 Login System: Secure login functionality to restrict access.
 
@@ -18,7 +18,7 @@ Update Students: Modify existing student records.
 
 Delete Students: Remove student entries from the system.
 
-##**Future Enhancements**
+**Future Enhancements**
 
 Implement a database (MySQL) instead of JSON for data storage.
 
